@@ -1,0 +1,9 @@
+{
+  "name": "ns",
+  "description": "Simple namespacing helper",
+  "homepage": "https://github.com/ze-phyr-us/meteor-ns",
+  "author": "Vita Smid <me@ze.phyr.us> (http://ze.phyr.us)",
+  "version": "0.1",
+  "git": "https://github.com/ze-phyr-us/meteor-ns.git",
+  "packages" : {}
+}
