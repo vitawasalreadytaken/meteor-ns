@@ -5,5 +5,3 @@ NS = (spec) ->
 	for part in spec.split '.'
 		ns = ns[part] ?= {}
 	ns
-
-module.exports.NS = NS
